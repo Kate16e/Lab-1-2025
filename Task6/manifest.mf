@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Created-By: "Ezhova"
+Created-By: "Ezhova Ekaterina"
 Main-Class: MyFirstClass
